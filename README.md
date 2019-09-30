@@ -1,2 +1,2 @@
 # ProjectChat
-Chat Project wit Latest CSS
+Chat Project with Latest CSS, CSS Grid
